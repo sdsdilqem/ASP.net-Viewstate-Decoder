@@ -2,9 +2,8 @@
 
 # Small tool to decode ASP.NET __VIEWSTATE variable
 #
-# VIEWSTATE module from https://github.com/yuvadm/viewstate.git
 #
-# spinfoo
+# 
 
 import viewstate
 import exceptions
